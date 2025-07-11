@@ -1,1 +1,0 @@
-PRIMARYSELECT * FROM studentmanagementdb.courses;
